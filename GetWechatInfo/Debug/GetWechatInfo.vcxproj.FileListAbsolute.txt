@@ -1,0 +1,2 @@
+D:\ADev\wechet\GetWechatInfo\Debug\GetWechatInfo.dll
+D:\ADev\wechet\GetWechatInfo\Debug\GetWechatInfo.pdb

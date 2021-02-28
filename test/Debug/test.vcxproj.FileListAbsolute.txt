@@ -1,0 +1,2 @@
+D:\ADev\wechet\test\Debug\test.exe
+D:\ADev\wechet\test\Debug\test.pdb
